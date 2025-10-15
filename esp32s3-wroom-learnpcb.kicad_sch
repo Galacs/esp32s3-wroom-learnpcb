@@ -2,9 +2,51 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid 93de29fe-314e-498a-b627-688058496610)
+	(uuid "93de29fe-314e-498a-b627-688058496610")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 53.34 57.15)
+		(size 12.7 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "000173ea-b04d-438a-9de2-989c1ddb0d51")
+		(property "Sheetname" "POC"
+			(at 53.34 56.4384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "poc.kicad_sch"
+			(at 53.34 80.5946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "esp32s3-wroom-learnpcb"
+				(path "/93de29fe-314e-498a-b627-688058496610"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
