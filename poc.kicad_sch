@@ -3524,6 +3524,7 @@
 		(stroke
 			(width 0)
 			(type dash)
+			(color 255 0 0 1)
 		)
 		(fill
 			(type none)
@@ -3536,6 +3537,7 @@
 		(stroke
 			(width 0)
 			(type dash)
+			(color 255 0 0 1)
 		)
 		(fill
 			(type none)
@@ -3548,6 +3550,7 @@
 		(stroke
 			(width 0)
 			(type dash)
+			(color 255 0 0 1)
 		)
 		(fill
 			(type none)
@@ -3560,6 +3563,7 @@
 		(stroke
 			(width 0)
 			(type dash)
+			(color 255 0 0 1)
 		)
 		(fill
 			(type none)
@@ -3574,6 +3578,7 @@
 				(size 1.905 1.905)
 				(thickness 0.508)
 				(bold yes)
+				(color 255 0 0 1)
 			)
 			(justify left)
 		)
@@ -3585,6 +3590,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(color 255 0 0 1)
 			)
 		)
 		(uuid "af05464c-ac6d-4301-a7e4-6b08b6d5b07d")
@@ -3597,6 +3603,7 @@
 				(size 1.905 1.905)
 				(thickness 0.508)
 				(bold yes)
+				(color 255 0 0 1)
 			)
 		)
 		(uuid "f53d18c1-283b-4b43-8dbf-9af46e87857b")
@@ -3609,6 +3616,7 @@
 				(size 1.905 1.905)
 				(thickness 0.508)
 				(bold yes)
+				(color 255 0 0 1)
 			)
 		)
 		(uuid "fbd39923-c76a-47e6-ad05-b5864fd6b06a")
@@ -3621,6 +3629,7 @@
 				(size 1.905 1.905)
 				(thickness 0.508)
 				(bold yes)
+				(color 255 0 0 1)
 			)
 		)
 		(uuid "fc0371c7-a0d8-4eb1-b7bd-a7e5ae8ad8c0")
